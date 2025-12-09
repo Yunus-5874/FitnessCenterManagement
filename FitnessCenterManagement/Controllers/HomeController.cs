@@ -2,6 +2,7 @@ using System.Diagnostics;
 using FitnessCenterManagement.Models;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace FitnessCenterManagement.Controllers
 {
     public class HomeController : Controller
