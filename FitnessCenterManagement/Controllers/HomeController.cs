@@ -3,7 +3,7 @@ using FitnessCenterManagement.Models;
 using Microsoft.AspNetCoreMvc;
 
 
-namespace FitnessCenterManagement.Controllers
+namespace FitnessCenterManagementControllers
 {
     public class HomeController : Controller
     {
