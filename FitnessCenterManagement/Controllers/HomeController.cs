@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using FitnessCenterManagement.Models;
+using FitnessCenterManagementModels;
 using Microsoft.AspNetCoreMvc;
 
 
